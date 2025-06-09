@@ -11,7 +11,7 @@ To enable and analyze AWS CloudTrail logs to audit user and resource activities 
 Go to CloudTrail from AWS Console
 Click Trails > Create trail
 Name: CloudAuditTrail
-Apply trail to all regions
+Apply trail to all regions 
 Log events:
  - Management events: Read & Write
  - Data events: S3, Lambda (optional)
